@@ -1,0 +1,9 @@
+{
+  "label": "通识",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "关于大学计算机学习相关的通识技能",
+    "slug": "/category/general"
+  }
+}
