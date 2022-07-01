@@ -43,4 +43,4 @@ sidebar_position: 1
 ## 参考链接
 1. [如何评价现在的大学生？ - 知乎](https://www.zhihu.com/question/26452022/answer/635508898)
 2. [顶尖高校：绩点考核下的人生突围 - 0xFFFF](https://0xffff.one/d/740-ding-jian-gao-xiao-ji-dian-kao-he-xia-de-ren-sheng-tu-wei)
-3. 修订前的 Wiki：https://www.yuque.com/0xffff.one/cs-learning/current-situation
+3. 修订前的 Wiki：[认识大学现状 · 语雀](https://www.yuque.com/0xffff.one/cs-learning/current-situation)
