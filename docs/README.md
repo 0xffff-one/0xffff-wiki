@@ -1,4 +1,5 @@
 ---
+title: 关于
 slug: /
 sidebar_position: 1
 ---

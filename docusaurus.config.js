@@ -52,10 +52,10 @@ const config = {
     ({
       navbar: {
         title: '0xFFFF Wiki',
-        logo: {
-          alt: '0xFFFF Wiki Logo',
-          src: 'img/logo.svg',
-        },
+        // logo: {
+        //   alt: '0xFFFF Wiki Logo',
+        //   src: 'img/logo.svg',
+        // },
         items: [
           {
             href: 'https://0xffff.one',
