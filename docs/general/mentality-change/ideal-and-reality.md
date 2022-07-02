@@ -122,7 +122,7 @@ sidebar_position: 2
 > 近代以来，科学有很大的成就，任何人想要有所创新，总要从学习开始。
 
 ## 参考链接
-1. 修订前的 Wiki：[认识大学现状 · 语雀](https://www.yuque.com/0xffff.one/cs-learning/current-situation)
+1. [认识大学现状 - 我们面对的大学是什么样子](https://www.yuque.com/0xffff.one/cs-learning/current-situation#xa3ci)
 2. 关于 “土壤” 的脑洞：[华南师范大学计算机怎么样？ - 知乎](https://www.zhihu.com/question/276894447/answer/1359676100)
 3. “真正的大学”：[《禅与摩托车维修艺术》读后感 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2011/12/zen_and_the_art_of_motorcycle_maintenance.html)
 4. [《禅与摩托车维修艺术》 - 豆瓣](https://book.douban.com/subject/6811366/)
