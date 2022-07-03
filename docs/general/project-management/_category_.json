@@ -1,0 +1,9 @@
+{
+  "label": "项目管理",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "计算机学习、工作中需要的项目管理常识",
+    "slug": "/category/general/project-management"
+  }
+}

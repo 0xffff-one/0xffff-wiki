@@ -1,0 +1,9 @@
+{
+  "label": "时间管理",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "实用的时间、任务管理技巧",
+    "slug": "/category/general/time-management"
+  }
+}
