@@ -1,9 +1,9 @@
 {
   "label": "IT文化、开源社区",
-  "position": 6,
+  "position": 9,
   "link": {
     "type": "generated-index",
     "description": "IT文化、开源社区",
-    "slug": "/category/general/culture"
+    "slug": "/category/culture"
   }
 }
