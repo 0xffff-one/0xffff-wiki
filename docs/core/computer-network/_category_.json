@@ -1,0 +1,9 @@
+{
+  "label": "计算机网络",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "计算机网络核心学习",
+    "slug": "/category/core/computer-network"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "操作系统",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "操作系统核心学习",
+    "slug": "/category/core/os"
+  }
+}

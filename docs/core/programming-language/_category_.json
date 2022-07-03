@@ -1,0 +1,9 @@
+{
+  "label": "编程语言",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "关注编程语言的共性，和常用语言的学习、进阶资料的引导",
+    "slug": "/category/programming-language"
+  }
+}
