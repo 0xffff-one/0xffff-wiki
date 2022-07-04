@@ -65,3 +65,17 @@ int main() {
 ### 天梯赛
 
 ## 资源推荐
+
+训练平台
+- [POJ](http://poj.org/)
+- [ZOJ](https://zoj.pintia.cn/)
+- [HDOJ](http://acm.hdu.edu.cn/)
+- [Codeforces](https://codeforces.com/)
+- [AtCoder](https://atcoder.jp/home)
+
+书籍
+
+模板
+
+课件
+
