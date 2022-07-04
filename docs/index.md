@@ -28,7 +28,7 @@ sidebar_position: 1
 ## 贡献方式
 1. 本 Wiki 在 GitHub 上维护，可以提 issue / PR
 2. 加入 0xFFFF Wiki 交流群，直接与维护者沟通
-3. 参与社区讨论，维护者会根据大家讨论的情况，持续完善本 Wiki 的内容与结构
+3. 参与 [社区讨论](https://0xffff.one)，维护者会根据大家讨论的情况，持续完善本 Wiki 的内容与结构
 
 ## 关于我们
 参见：[社区介绍 - 0xFFFF](https://0xffff.one/p/2-0xffff-intro)
