@@ -5,6 +5,7 @@ sidebar_position: 1
 # 程序设计竞赛
 
 作者：@elitedj
+状态：施工中...
 
 
 ## 简介
