@@ -63,7 +63,7 @@ const config = {
         items: [
           {
             href: 'https://0xffff.one',
-            label: '论坛',
+            label: 'Community',
             position: 'right',
           },
           {
