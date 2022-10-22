@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # 安卓开发入门
 
 ### 1.语言 & Android基础

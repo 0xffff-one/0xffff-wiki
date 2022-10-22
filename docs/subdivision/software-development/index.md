@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 
-# index
-施工中
+# intro
+软件开发方向
