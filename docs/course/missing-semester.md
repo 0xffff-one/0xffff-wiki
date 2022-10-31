@@ -13,7 +13,7 @@ sidebar_position: 2
 * 官方网站：https://missing.csail.mit.edu/  
 * 中文翻译：https://missing-semester-cn.github.io/
 * 社区相关介绍帖：[MIT 推出的“磨刀”课程 - The Missing Semester of Your CS Education](https://0xffff.one/d/615-mit-tui-chu-de-mo-dao-ke-cheng-the)
-* csdiy.wiki [MIT-Missing-Semester - CS自学指南](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/)
+* csdiy.wiki：[MIT-Missing-Semester - CS自学指南](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/)
 * 讨论交流：https://0xffff.one/t/missing
 
 ### 历史活动

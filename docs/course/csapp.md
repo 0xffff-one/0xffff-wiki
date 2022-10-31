@@ -6,7 +6,7 @@ sidebar_position: 3
 
 中文名叫 “深入理解计算机系统”，“从程序员的视角”去理解计算机系统，通常简称 CSAPP
 
-相关链接（了解其情况下）：
+相关链接：
 * [CMU 15-213: CSAPP - CS自学指南](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CSAPP/)
 * 讨论交流：https://0xffff.one/t/csapp
 
