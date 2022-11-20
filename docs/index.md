@@ -7,11 +7,11 @@ sidebar_position: 1
 # 0xFFFF Wiki
 这是 [0xFFFF 社区](https://0xffff.one) 维护的一个面向计算机爱好者的 Wiki 网站，关注大学 CS 类专业的入门及核心基础的学习，同时针对学术、工业界的各细分方向，提供从入门到进阶的导览和学习建议。
 
-目前项目还在初始阶段，关于本项目的历史，规划等，可参考这些链接：
+> **目前项目还在初始阶段，内容还不太丰富**，可以优先参考我们早期在语雀整理的知识库：[0xFFFF CS Wiki · 语雀](https://www.yuque.com/0xffff.one/cs-learning)
+
+关于本项目的历史，规划等，可参考这些链接：
 * 内容规划导图：[0xFFFF Wiki 规划](https://en1c09120h.feishu.cn/mindnotes/bmncnHJIVQftkHaJ06MMJOPUhBh)
-* 早期语雀知识库：
-[0xFFFF CS Wiki · 语雀](https://www.yuque.com/0xffff.one/cs-learning)
-* 最初的设想：[多人协同方式构造计算机专业学习 Wiki 的设想 - 0xFFFF](https://0xffff.one/d/458-duo-ren-xie-tong-fang-shi-gou-zao-j)
+* 最初的设想：[多人协同方式构造计算机专业学习 Wiki 的设想 - 0xFFFF](https://0xffff.one/d/458-duo-ren-xie-tong-fang-shi-gou-zao)
 
 ## 我们的目标
 1. 构建大学计算机领域的 Big Picture，辅助读者更好对专业建立宏观印象
