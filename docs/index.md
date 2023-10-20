@@ -46,7 +46,7 @@ GitHub Contributors:
   </a>
 </p>
 
-语雀时代的不完全统计（群友 && 坛友们）：
+[语雀时代](https://www.yuque.com/0xffff.one/cs-learning) 的不完全统计（群友 && 坛友们）：
 * [@zgq354](https://github.com/zgq354)
 * [@Colin_Downey](https://github.com/ColinDowney)
 * [@Tover](https://github.com/ToverPomelo)
