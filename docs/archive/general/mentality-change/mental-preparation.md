@@ -1,6 +1,5 @@
 ---
 sidebar_position: 4
-slug: /mental-preparation
 ---
 
 # 进入大学的心态准备
