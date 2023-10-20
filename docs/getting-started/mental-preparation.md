@@ -40,7 +40,7 @@ sidebar_position: 6
 
 这样的恐惧其实是个普遍现象，并非某一个人的问题，上手一个新的领域，常常伴随着一段自信心逐渐崩塌，然后逐步重建的经历。类似网友 **[误传的“邓宁·克鲁格效应”曲线](https://wiki.mbalib.com/wiki/%E9%82%93%E5%AE%81-%E5%85%8B%E9%B2%81%E6%A0%BC%E6%95%88%E5%BA%94#_note-1)** 的模型。
 
-![](https://zgq354.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F92d46d07-f1ce-48c4-ae0f-189d90656b63%2FUntitled.png?table=block&id=971989a3-6cf8-4a27-b1e1-3e661807eda3&spaceId=5ef6a41f-4ad3-43d9-a314-d863352a143b&width=580&userId=&cache=v2)
+![](https://static.0xffff.one/files/2023-10-20/1697814225-504653-confidence-and-knowledge.jpg)
 
 在这个过程中有一个比较大的卡点，在于个人身份认同层面的阻碍，也是我在 [现实主义的大学](https://www.notion.so/942e39ef17304ff0a803a26a29ddc068?pvs=21) 提到的，大学的品牌标签，会给人带来一点身份认同。当一个人因为身份缘故，不认同自身能力，自信心和信念也很难建立，更不要说去推进一个认知积累的过程，一直在一个停滞不前的状态。
 
@@ -78,7 +78,7 @@ sidebar_position: 6
 
 深圳宝安中心区图书馆一角的墙上，有这么一段话：
 
-![](https://zgq354.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F5ef6a41f-4ad3-43d9-a314-d863352a143b%2F0ab362c1-105f-403c-b498-9e02cc805eda%2FUntitled.png?table=block&id=f63095ed-bc44-4ed3-a731-668601516bc5&spaceId=5ef6a41f-4ad3-43d9-a314-d863352a143b&width=260&userId=&cache=v2)
+![](https://static.0xffff.one/files/2023-10-20/1697813973-425599-baoan-library.jpg)
 
 前半句来自梁文道先生的《我读》，原话是这么说的：
 

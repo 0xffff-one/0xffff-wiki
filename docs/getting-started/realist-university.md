@@ -39,7 +39,7 @@ sidebar_position: 3
 
 这里好与坏的差距并非想象中那么大，对于本科生来说，普遍而言，思考的层次并不会太深，图书馆这么多的书一年都看不完几本，又如何触及到这方面探索的天花板？就拿本人在华师四年的经历来看，在图书馆只借过几十本书，竟也排到了88%之前：
 
-![](https://zgq354.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8535740e-f191-4aa4-9407-c8283ffb1b25%2FUntitled.png?table=block&id=5264050d-6458-4c50-ac60-6c6c18e2a401&spaceId=5ef6a41f-4ad3-43d9-a314-d863352a143b&width=860&userId=&cache=v2)
+![](https://static.0xffff.one/files/2023-10-20/1697814054-755709-scnu-library-gq-record.jpg)
 
 由此来看，除去“社会地位”方面的因素，从大学给一名本科阶段的学生的思考空间、以及学生对资源的需求角度来看，在不同大学之间的差异并不会很大。若内心的方向足够明确，不同的学校对于个人的思考与探索的阻力其实比较有限。
 
@@ -81,7 +81,7 @@ sidebar_position: 3
 
 自第48次报告开始，统计报告中已无学历结构数据，我们从能拿到最新数据的2020年12月第47次报告入手观察，可以发现的是，大学专科以上学历占总的网民数量其实不足20%，本科甚至 10% 不到。
 
-![](https://zgq354.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9e77c503-2cc8-4542-a5f5-44e149f79445%2FUntitled.png?table=block&id=31aa5c90-cf7f-46e0-ac71-4740b72721be&spaceId=5ef6a41f-4ad3-43d9-a314-d863352a143b&width=960&userId=&cache=v2)
+![](https://static.0xffff.one/files/2023-10-20/1697814142-735690-degree.jpg)
 
 在本科生中带着相对顶尖的 211 / 985 / 双一流 等 title 标签的学生，相对本科而言估计在 1/4 左右。就我所在的 211 学校的体感而言，感觉身边学术氛围相对还比较有限，且在被很强的社会功利之心所侵袭。将这样的现实再反推到更普遍的学校，再到广大网民乃至全国人民，有时甚至是触目惊心的。
 
