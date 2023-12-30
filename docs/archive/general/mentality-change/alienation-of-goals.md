@@ -45,11 +45,11 @@ sidebar_position: 1
 
 ![](./img/student-status.jpg)
 
-《三联生活周刊》的这篇 [《顶尖高校：绩点考核下的人生突围》](https://0xffff.one/d/740-ding-jian-gao-xiao-ji-dian-kao-he-xia-de-ren-sheng-tu-wei)，也为我们描述了类似的困境。
+《三联生活周刊》的这篇 [《顶尖高校：绩点考核下的人生突围》](https://0xffff.one/d/740)，也为我们描述了类似的困境。
 
 真正的大学学习应该是什么样的？我们可以如何改善目前的现状？这也是「心态的转变」关注的问题。
 
 ## 参考链接
 1. [如何评价现在的大学生？ - 知乎](https://www.zhihu.com/question/26452022/answer/635508898)
-2. [顶尖高校：绩点考核下的人生突围 - 0xFFFF](https://0xffff.one/d/740-ding-jian-gao-xiao-ji-dian-kao-he-xia-de-ren-sheng-tu-wei)
+2. [顶尖高校：绩点考核下的人生突围 - 0xFFFF](https://0xffff.one/d/740)
 3. [认识大学现状 - 中小学在学习目标上的异化](https://www.yuque.com/0xffff.one/cs-learning/current-situation#PFKRJ)

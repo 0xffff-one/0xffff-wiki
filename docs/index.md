@@ -10,12 +10,12 @@ sidebar_position: 1
 > **2023年10月更新：**  
  Wiki 目前仍处于起步阶段，内容陆续施工中  
  当前正在筹备新版本的「计算机入门专题」，尝试构建起 CS 学习的基础世界观  
- 详见此帖：[关于新版本入门专题的编写计划 - 0xFFFF](https://0xffff.one/d/1545-guan-yu-xin-ban-ben-ru-men-zhuan-ti)
+ 详见此帖：[关于新版本入门专题的编写计划 - 0xFFFF](https://0xffff.one/d/1545)
 
 关于本项目的历史，规划等，可参考以下链接：
 * 内容规划导图：[0xFFFF Wiki 规划](https://en1c09120h.feishu.cn/mindnotes/bmncnHJIVQftkHaJ06MMJOPUhBh)
 * 早期在语雀整理的知识库：[0xFFFF CS Wiki · 语雀](https://www.yuque.com/0xffff.one/cs-learning)
-* 最初的设想：[多人协同方式构造计算机专业学习 Wiki 的设想 - 0xFFFF](https://0xffff.one/d/458-duo-ren-xie-tong-fang-shi-gou-zao)
+* 最初的设想：[多人协同方式构造计算机专业学习 Wiki 的设想 - 0xFFFF](https://0xffff.one/d/458)
 
 ## 构建 Wiki 的目标
 1. 构建大学计算机领域的 Big Picture，辅助读者更好对专业建立宏观印象

@@ -3,7 +3,7 @@ title: 理想的大学世界
 sidebar_position: 2
 ---
 
-> 注：入门专题仍在施工中，可以在 [这里](https://0xffff.one/d/1545-guan-yu-xin-ban-ben-ru-men-zhuan-ti) 关注最新进展 😊
+> 注：入门专题仍在施工中，可以在 [这里](https://0xffff.one/d/1545) 关注最新进展 😊
 
 上一节聊到了无论中小学还是大学都应有的好奇与探索状态，以及中小学资源竞争的学习压力带来的困境，进一步来说又会引出一系列问题，我们究竟在学习和探索什么？大学与中小学的差异在哪里？不同大学之间、专业方向等又有何异同，不同的学校会有什么样的差距？“学术”的背后究竟代表着什么？
 
@@ -75,7 +75,7 @@ sidebar_position: 2
 
 如今网上也有计算机相关课程在线课程的一些学习路径，它的设置，与我们的专业培养方案实则大同小异，结合一起来看，对于建立一个大体认识也是有帮助的。需要留意的是，专业培养方案提供的仅仅是一个基本的要求，若想在这方面有更深层次的造诣，你需要付出更多的努力去达到。
 
-若对这方面仍有疑惑，你还可以参考 ACM/IEEE-CS 的会议报告 [《计算机科学课程体系规范 2013》](https://0xffff.one/d/276-ji-suan-ji-ke-xue-ke-cheng-ti-xi-gui-fan-2013)，以及对整个 Computing 的一个课程体系的[纲领](https://www.acm.org/education/curricula-recommendations)。它们是世界各地顶级计算机学者们经过思考、讨论与权衡后所划定的大致范围和学习目标。通过它我们可以大致了解标准的计算机专业设置上，对自身需要达到的能力的目标与要求有一个大致的预期，更好地把握自己的学习方向。
+若对这方面仍有疑惑，你还可以参考 ACM/IEEE-CS 的会议报告 [《计算机科学课程体系规范 2013》](https://0xffff.one/d/276)，以及对整个 Computing 的一个课程体系的[纲领](https://www.acm.org/education/curricula-recommendations)。它们是世界各地顶级计算机学者们经过思考、讨论与权衡后所划定的大致范围和学习目标。通过它我们可以大致了解标准的计算机专业设置上，对自身需要达到的能力的目标与要求有一个大致的预期，更好地把握自己的学习方向。
 
 综合以上几个信息来源，再结合现实的情况，可以尝试用脑图、大纲笔记等工具去明确你的具体的学习目标，从而得到本科阶段的学习规划的 Roadmap，这个过程也可以多与有经验前辈一同交流、讨论和完善。你也可以用各种方式去多多分享你的经验，助力后辈更好地规划自己的学习。
 
@@ -86,5 +86,5 @@ sidebar_position: 2
 3. [《中华人民共和国学科分类与代码表 GB/T 13745-2009》](http://kyy.njtech.edu.cn/__local/C/A6/D3/BCF7A81B9A2ADB3E6911A03218D_EF642747_1198AA.pdf?e=.pdf)
 4. [《逆袭大学》中关于培养方案的章节](https://blog.csdn.net/sxhelijian/article/details/86152950)
 5. [网易云课堂 - 大学计算机专业课程体系](https://study.163.com/curricula/cs.htm)
-6. [《计算机科学课程体系规范 2013》 - 0xFFFF](https://0xffff.one/d/276-ji-suan-ji-ke-xue-ke-cheng-ti-xi-gui-fan-2013)
+6. [《计算机科学课程体系规范 2013》 - 0xFFFF](https://0xffff.one/d/276)
 7. [Curricula Recommendations - ACM](https://www.acm.org/education/curricula-recommendations)

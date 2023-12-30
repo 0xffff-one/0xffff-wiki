@@ -42,7 +42,7 @@ sidebar_position: 3
 
 如今网上也有计算机相关课程在线课程的一些学习路径的展示，如网易云课堂的 [大学计算机专业课程体系](https://study.163.com/curricula/cs.htm)，它的设置，与我们的专业培养方案实则大同小异，结合一起来看，对于建立一个大体认识也是有帮助的。需要留意的是，培养方案提供的仅仅是一个基本的要求，若想在这方面有更深层次的造诣，你需要付出更多的努力去达到。
 
-若对这方面仍有疑惑，你还可以参考 ACM/IEEE-CS 的会议报告 [《计算机科学课程体系规范 2013》](https://0xffff.one/d/276-ji-suan-ji-ke-xue-ke-cheng-ti-xi-gui-fan-2013)，以及对整个 Computing 的一个课程体系的 [纲领](https://www.acm.org/education/curricula-recommendations)。它们是世界各地顶级计算机学者们经过思考、讨论与权衡后所划定的大致范围和学习目标。通过它我们可以大致了解标准的计算机专业设置上，对自身需要达到的能力的目标与要求的预期，更好地把握自己的学习方向。
+若对这方面仍有疑惑，你还可以参考 ACM/IEEE-CS 的会议报告 [《计算机科学课程体系规范 2013》](https://0xffff.one/d/276)，以及对整个 Computing 的一个课程体系的 [纲领](https://www.acm.org/education/curricula-recommendations)。它们是世界各地顶级计算机学者们经过思考、讨论与权衡后所划定的大致范围和学习目标。通过它我们可以大致了解标准的计算机专业设置上，对自身需要达到的能力的目标与要求的预期，更好地把握自己的学习方向。
 
 综合以上几个信息来源，再结合现实的情况，可以尝试用脑图、大纲笔记等工具去明确你的具体的学习目标，从而得到本科阶段的学习规划的 Roadmap，这个过程也可以多与有经验前辈一同交流、讨论和完善。当然你也可以多多分享你的经验，助力后辈更好地规划自己的学习。
 
@@ -52,5 +52,5 @@ sidebar_position: 3
 3. [《中华人民共和国学科分类与代码表 GB/T 13745-2009》](http://kyy.njtech.edu.cn/__local/C/A6/D3/BCF7A81B9A2ADB3E6911A03218D_EF642747_1198AA.pdf?e=.pdf)
 4. [《逆袭大学》中关于培养方案的章节](https://blog.csdn.net/sxhelijian/article/details/86152950)
 5. [网易云课堂 - 大学计算机专业课程体系](https://study.163.com/curricula/cs.htm)
-6. [《计算机科学课程体系规范 2013》 - 0xFFFF](https://0xffff.one/d/276-ji-suan-ji-ke-xue-ke-cheng-ti-xi-gui-fan-2013)
+6. [《计算机科学课程体系规范 2013》 - 0xFFFF](https://0xffff.one/d/276)
 7. [Curricula Recommendations - ACM](https://www.acm.org/education/curricula-recommendations)

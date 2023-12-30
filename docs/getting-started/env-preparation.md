@@ -3,7 +3,7 @@ title: 面向入门的开发环境打造
 sidebar_position: 7
 ---
 
-> 注：入门专题仍在施工中，可以在 [这里](https://0xffff.one/d/1545-guan-yu-xin-ban-ben-ru-men-zhuan-ti) 关注最新进展 😊
+> 注：入门专题仍在施工中，可以在 [这里](https://0xffff.one/d/1545) 关注最新进展 😊
 
 
 环境搭建一直是老生常谈的话题，网上各类教程五花八门，大多只是停留在“能用”的程度，知其然不知所以然。结果要么停留在上古时期，要么重度依赖某些集成套装所构筑的复杂体系，懵懵懂懂之下，不少刚入坑的新朋友在这其中也迷失道路。即便到了大三大四，连命令行都还不了解的都大有人在。
@@ -85,7 +85,7 @@ GUI贴近直觉的特性，尤其适合简单直观一次性的任务。当任�
 
 ### 进一步的延伸
 
-当你在 Linux 体系逐步落脚以后，在它的使用过程中，你可以作更多的折腾和研究，在身边的爱好者之间可以多一些交流。对于 CLI 的使用，还可以关注 MIT 的 [Missing Semester](https://0xffff.one/d/615-mit-tui-chu-de-mo-dao-ke-cheng-the) 课程，里面有关于 CLI 一整个工具体系的讲座，教你一些常用且好用的 CLI 工具。
+当你在 Linux 体系逐步落脚以后，在它的使用过程中，你可以作更多的折腾和研究，在身边的爱好者之间可以多一些交流。对于 CLI 的使用，还可以关注 MIT 的 [Missing Semester](https://0xffff.one/d/615) 课程，里面有关于 CLI 一整个工具体系的讲座，教你一些常用且好用的 CLI 工具。
 
 更建议挑战一下，完全在 Linux 桌面下工作生活乃至游戏，虽然 Linux 在桌面领域还有些落后于 Windows 和 macOS，作为程序员的浪漫，在学生时代比较多专注时间的状态下，可以多多尝试和折腾，在尝试攻克一些自己不爽的难题的过程中，也会大大提升你的代码水平。这也是历史发展的一点趋势，许多软件也有适配 Linux 桌面，上手难度相比于过去要小很多。
 
@@ -98,4 +98,4 @@ GUI贴近直觉的特性，尤其适合简单直观一次性的任务。当任�
 5. [Logical Block - WikiPedia](https://en.wikipedia.org/wiki/Logical_block_addressing)
 6. [gedit - GNOME](https://wiki.gnome.org/Apps/Gedit)
 7. [VSCode 官网](https://code.visualstudio.com/)
-8. [MIT 推出的“磨刀”课程 - The Missing Semester of Your CS Education - 0xFFFF](https://0xffff.one/d/615-mit-tui-chu-de-mo-dao-ke-cheng-the)
+8. [MIT 推出的“磨刀”课程 - The Missing Semester of Your CS Education - 0xFFFF](https://0xffff.one/d/615)
