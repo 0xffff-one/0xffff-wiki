@@ -24,7 +24,7 @@ Wiki 目前仍处于起步阶段，内容陆续施工中...
 ## 食用指南
 在 Wiki 菜单，选择一个你感兴趣的主题页面，开始阅读即可。
 
-如果你是刚入门计算机的大学生，可以从 [计算机入门专题](/getting-started/) 开始，在心态和方法上作一些准备。由于当前的内容覆盖相对不足，对于具体的课程学习的经验，可以参考 [@MingLLuo](https://github.com/minglluo) 同学结合自身学习经验而设的 [CS Plan](https://cs-plan.com/)。
+如果你是刚入门计算机的大学生，可以从 [计算机入门专题](/getting-started/) 开始，在心态和方法上作一些准备。由于当前的内容覆盖相对不足，对于具体的课程学习的经验，可以参考 [@MingLLuo](https://github.com/minglluo) 同学结合自身学习经验而设的 [CS Plan](https://cs-plan.com/)，以及 [CS自学指南 - csdiy.wiki](https://csdiy.wiki/) 及涉及到的各课程、书籍的讨论社群。
 
 **内容和观点仅供参考，请保持批判性的阅读。**
 

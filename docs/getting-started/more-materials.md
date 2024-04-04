@@ -12,6 +12,8 @@ sidebar_position: 10
 
 一些可参考的站点：
 
+- [CS Plan](https://cs-plan.com)
+- [CS自学指南 - csdiy.wiki](https://csdiy.wiki/)
 - [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
 - [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
