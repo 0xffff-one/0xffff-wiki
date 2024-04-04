@@ -79,7 +79,7 @@ const config = {
       footer: {
         copyright: `
           <a href="https://0xffff.one" target="_blank">0xFFFF</a> &copy; ${new Date().getFullYear()}.
-          Powered by <a href="https://docusaurus.io" target="_blank">Docusaurus</a>.
+          Built with <a href="https://docusaurus.io" target="_blank">Docusaurus</a>.
         `,
       }
     }),
