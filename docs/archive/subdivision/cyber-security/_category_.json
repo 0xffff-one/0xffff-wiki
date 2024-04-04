@@ -1,9 +1,0 @@
-{
-  "label": "信息安全",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "信息安全 & CTF 竞赛相关专题",
-    "slug": "/category/subdivision/cyber-security"
-  }
-}

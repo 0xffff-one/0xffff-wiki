@@ -1,9 +1,0 @@
-{
-  "label": "经典书籍 & 教材",
-  "position": 8,
-  "link": {
-    "type": "generated-index",
-    "description": "计算机领域的经典书籍，介绍及阅读指南",
-    "slug": "/category/book"
-  }
-}

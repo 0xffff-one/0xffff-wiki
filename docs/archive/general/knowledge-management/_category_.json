@@ -1,9 +1,0 @@
-{
-  "label": "知识管理",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "信息输入、信息管理、内化与输出",
-    "slug": "/category/general/knowledge-management"
-  }
-}

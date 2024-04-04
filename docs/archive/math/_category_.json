@@ -1,9 +1,0 @@
-{
-  "label": "数学",
-  "position": 4,
-  "link": {
-    "type": "generated-index",
-    "description": "数学的基础、计算机相关数学的入门引导",
-    "slug": "/category/math"
-  }
-}
