@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # 安卓开发入门
 
+作者：[@lukelmouse-github](https://github.com/lukelmouse-github) 
+
 ### 1.语言 & Android基础
 
 [Java 核心技术卷一](https://book.douban.com/subject/34898994/)
