@@ -8,11 +8,16 @@ sidebar_position: 2
 
 1. [DIKW 模型](https://wiki.mbalib.com/wiki/DIKW%E6%A8%A1%E5%9E%8B)，以及如何借助工具去支撑 Data → Information → Knowledge → Wisdom 的转化
 2. 对内的信息固定与整理
+  1. P.A.R.A 分类法
+  2. 卡片盒笔记法（Zettelkasten）
 3. 对外的分享与交流碰撞
+  1. 博客的搭建
 
 相关链接
 1. [Flomo 创始人少楠关于知识管理的分享](https://help.flomoapp.com/thinking/pkm.html)
 2. [基于 Logseq 重构个人知识管理体系 - gq's blog](https://zgq.ink/posts/knowledge-base-refactoring)
+3. [The PARA Method: A Universal System for Organizing Digital Information](https://pmthinking.com/the-para-method-a-universal-system-for-organizing-digital-information)
+4. [尼克拉斯 · 卢曼（Niklas Luhmann）的卡片盒笔记法](https://pmthinking.com/zettelkasten)
 
 ### 知识管理工具
 推荐工具：

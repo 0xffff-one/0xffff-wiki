@@ -10,8 +10,8 @@ sidebar_position: 1
 Wiki 目前仍处于起步阶段，内容陆续施工中...
 
 关于本项目的历史，规划等，可参考以下链接：
-* 新版入门专题：[关于新版本入门专题的编写计划 - 0xFFFF](https://0xffff.one/d/1545)
 * 内容规划导图：[0xFFFF Wiki 规划 - 飞书文档](https://en1c09120h.feishu.cn/mindnotes/bmncnHJIVQftkHaJ06MMJOPUhBh)
+* 新版入门专题：[关于新版本入门专题的编写计划 - 0xFFFF](https://0xffff.one/d/1545)
 * 早期在语雀的知识库：[0xFFFF CS Wiki - 语雀](https://www.yuque.com/0xffff.one/cs-learning)
 * 最初的设想：[多人协同方式构造计算机专业学习 Wiki 的设想 - 0xFFFF](https://0xffff.one/d/458)
 
