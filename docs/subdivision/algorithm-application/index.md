@@ -14,8 +14,8 @@ sidebar_position: 1
 目前（2022年初）我们所讨论的「算法」主要分化为以下几种：
 
 1. 算法核心：参见 `专业核心/数据结构与算法`
-2. 算法竞赛：参见 [程序设计竞赛](/archive/subdivision/algorithm-application/programming-contest)
-3. 面试算法：参见 [算法面试](/archive/subdivision/algorithm-application/job-interview)
+2. 算法竞赛：参见 [程序设计竞赛](/subdivision/algorithm-application/programming-contest)
+3. 面试算法：参见 [算法面试](/subdivision/algorithm-application/job-interview)
 4. 日常工作使用算法（待完善，考虑常见开源项目对算法的使用）
 5. AI 向算法（神经网络、机器学习等）
 

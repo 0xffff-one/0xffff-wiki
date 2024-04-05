@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '0xFFFF Wiki',
-  tagline: '整理 CS 专业课程的学习资源及攻略',
+  tagline: '整理 CS 领域的学习资源及攻略',
   url: 'https://wiki.0xffff.one',
   baseUrl: '/',
   onBrokenLinks: 'throw',

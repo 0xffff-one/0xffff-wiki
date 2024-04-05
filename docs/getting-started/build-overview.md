@@ -22,10 +22,11 @@ sidebar_position: 9
 5. Web 开发、数据库和 SQL 语言
 6. 网络安全
 
-0xFFFF 此前有做过一些尝试，尝试就 CS50 出发去拉起一些线上讨论，虽然当时更多还是站长为主的单口相声，期待未来有更多的朋友尝试发起与组织类似的活动。
+0xFFFF 此前有做过一些尝试，尝试就 CS50 出发去拉起一些线上讨论，虽然当时更多还是站长为主的单口相声，期待未来有更多有时间有动力的朋友尝试发起与组织类似的活动。
 
-- [哈佛 CS50 导论课程暑期共同自学计划](https://0xffff.one/d/1028)
-- [CS50 Summer 2022 Study Program](https://0xffff.one/d/1241)
+1. 2021.6.26 - 2021.9.4 [哈佛 CS50 课程共同学习计划](https://0xffff.one/d/1028)
+2. 2022.5.28 - 2022.9.12 [CS50 Summer 2022 Study Program](https://0xffff.one/d/1241)
+
 
 除了 CS50 外，根据 0xFFFF 坛友的[测评](https://cs-plan.com/CS%E5%9F%BA%E7%A1%80/%E8%AF%BE%E7%A8%8B%E6%8E%A8%E8%8D%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%80%9F%E6%88%90%E8%AF%BE/)，[Crash Course Computer Science](https://thecrashcourse.com/topic/computerscience/) 也是不错的选择。
 
@@ -34,6 +35,12 @@ sidebar_position: 9
 工具使用的学习，同样也是入门阶段一个很重要的话题，配置一个开发环境仅仅是一个开始。工具也是一些各个领域思想、方法的现实落地，我们在熟悉工具的过程中，也同时在熟悉对应领域的一系列的设计思想。
 
 麻省理工的 [Missing Semester 系列讲座](https://missing.csail.mit.edu/) 也关注到了这方面的缺失，比较建议从这门课程开始。
+
+Missing Semester，顾名思义，“计算机学习中消失的一个学期”，一门介绍在大学的课堂不常见，但又是各种生产力工具的系列讲座课程，包括终端、命令行、各种 Unix 工具脚本、Vim、Git、Tmux 等等等等。
+
+课程定位：
+1. 对计算机领域中的足够稳定的知识体系**建立整体认知**
+2. 熟练使用领域通行工具，练成**足以防身的功夫**
 
 它主要涉及到这些方面的内容：
 
@@ -44,13 +51,15 @@ sidebar_position: 9
 一些坛友的沉淀，以及可以参考的链接：
 
 - [MIT 推出的“磨刀”课程 - The Missing Semester of Your CS Education - 0xFFFF](https://0xffff.one/d/615)
-- [Missing Semester 组队学习计划 - 0xFFFF](https://0xffff.one/d/1159)
 - [Missing Semester 系列内容个人补充 - 0xFFFF](https://0xffff.one/d/1166)
+- 中文翻译：https://missing-semester-cn.github.io/
+- csdiy.wiki：[MIT-Missing-Semester](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/)
+- 2022.01 - 2022.04: [Missing Semester 组队学习计划 - 0xFFFF](https://0xffff.one/d/1159)
 
 ### 学习建议
 
 根据之前的实践，记录一些在这个阶段，可能需要注意的点：
 
 1. 从自身出发，从中慢慢找到学计算机的感觉，尤其是编程的直觉、习惯的培养
-2. 接纳不懂的状态，这只是一个 Overview，真正学通还需要带着疑问各个击破
+2. 接纳自己不懂的状态，这只是一个 Overview，真正学通还需要带着疑问各个击破
 3. 在过程中，对 Unix 体系下的工具有一个初步认识与掌握
