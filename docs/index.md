@@ -11,8 +11,8 @@ Wiki 目前仍处于起步阶段，内容陆续施工中...
 
 关于本项目的历史，规划等，可参考以下链接：
 * 新版入门专题：[关于新版本入门专题的编写计划 - 0xFFFF](https://0xffff.one/d/1545)
-* 内容规划导图：[0xFFFF Wiki 规划](https://en1c09120h.feishu.cn/mindnotes/bmncnHJIVQftkHaJ06MMJOPUhBh)
-* 早期语雀知识库：[0xFFFF CS Wiki · 语雀](https://www.yuque.com/0xffff.one/cs-learning)
+* 内容规划导图：[0xFFFF Wiki 规划 - 飞书文档](https://en1c09120h.feishu.cn/mindnotes/bmncnHJIVQftkHaJ06MMJOPUhBh)
+* 早期在语雀的知识库：[0xFFFF CS Wiki - 语雀](https://www.yuque.com/0xffff.one/cs-learning)
 * 最初的设想：[多人协同方式构造计算机专业学习 Wiki 的设想 - 0xFFFF](https://0xffff.one/d/458)
 
 ## 项目目标
@@ -24,7 +24,7 @@ Wiki 目前仍处于起步阶段，内容陆续施工中...
 ## 食用指南
 在 Wiki 菜单，选择一个你感兴趣的主题页面，开始阅读即可。
 
-如果你是刚入门计算机的大学生，可以从 [计算机入门专题](/getting-started/) 开始，在心态和方法上作一些准备。由于当前的内容覆盖相对不足，对于具体的课程学习的经验，可以参考 [@MingLLuo](https://github.com/minglluo) 同学结合自身学习经验而设的 [CS Plan](https://cs-plan.com/)，以及 [CS自学指南 - csdiy.wiki](https://csdiy.wiki/) 及涉及到的各课程、书籍的讨论社群。
+如果你是刚入门计算机的大学生，可以从 [计算机入门专题](/getting-started/) 开始，在心态与方法上作一些准备。由于当前内容覆盖相对不足，对于具体的课程学习的经验，可以参考 [@MingLLuo](https://github.com/minglluo) 同学结合自身学习经验而设的 [CS Plan](https://cs-plan.com/)，[CS自学指南 - csdiy.wiki](https://csdiy.wiki/) 以及它们涉及到的各课程、书籍的讨论社群。
 
 **内容和观点仅供参考，请保持批判性的阅读。**
 
@@ -35,7 +35,7 @@ Wiki 目前仍处于起步阶段，内容陆续施工中...
 ## 贡献方式
 1. 本 Wiki 在 [GitHub](https://github.com/0xffff-one/0xffff-wiki) 上维护，内容相关问题可以提 issue，若有意贡献内容，请先联系核心维护成员商讨相关的规划，再提 Pull Request
 2. 加入 [0xFFFF Discord 频道](https://discord.gg/pjf6AdnyXE)，参与维护者们的讨论
-3. 在 [0xFFFF Forum](https://0xffff.one) 提出你的问题与建议，维护者会根据讨论情况，持续完善本 Wiki 的内容与结构
+3. 在 [0xFFFF Forum](https://0xffff.one) 分享和讨论 CS 中你感兴趣的话题，维护者会根据讨论情况，持续完善本 Wiki 的内容与结构
 
 ## 贡献者们
 GitHub Contributors:

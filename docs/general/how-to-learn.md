@@ -1,8 +1,15 @@
 ---
-title: 学会如何学习 (Learning How To Learn)
+title: 学习方法
+sidebar_position: 1
 ---
 
+参考 [专业入门 / 心态与方法上的准备 / 学习方法与策略转变](/getting-started/mental-preparation#6-学习方法与策略转变)。
+
+## 学会如何学习 (Learning How To Learn)
+
 芭芭拉·奥克利 Barbara Oakley 教授关于学习技巧与方法的研究与总结。从脑科学与心理学的角度出发，讨论掌握复杂学科的方法和思维模式。
+
+这一课程从非常贴近生活的视角，用通俗易懂的方式向大家介绍了许多很实用的心理学知识，以及衍生出的一些方法技巧，如番茄工作法、组块理论、艾宾浩斯遗忘曲线、记忆宫殿法等等等等。
 
 大致介绍可以参考此文：[学习如何学习 - Limboy's HQ](https://limboy.me/posts/learning-how-to-learn/)
 
