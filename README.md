@@ -4,7 +4,7 @@
 关于 Wiki 的详细介绍、历史、目标与规划等，请移步 Wiki 主页：https://wiki.0xffff.one
 
 ## 贡献方式
-网站内容以 Markdown 形式编写（位于 `docs/` 目录下），基于 [Docusaurus 2](https://docusaurus.io/) 生成。
+网站内容以 Markdown 格式编写（位于 `docs/` 目录下），基于 [Docusaurus](https://docusaurus.io/) 生成。
 
 目前站点仍在起步阶段，尚未完整成型，若有新内容贡献，请先联系核心维护成员商讨相关的规划，再提 Pull Request，也可以在 issue 发起讨论。维护者主要在 [Discord](https://discord.com/channels/835068992006651934/835187768002084916) 出没。
 
