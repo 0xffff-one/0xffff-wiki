@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 程序设计竞赛
 
-作者：[@elitedj](https://0xffff.one/u/Elite)
+> 作者：[@elitedj](https://0xffff.one/u/Elite)
 
 
 ## 简介

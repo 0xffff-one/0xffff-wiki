@@ -3,7 +3,7 @@ title: 学习方法
 sidebar_position: 1
 ---
 
-参考 [专业入门 / 心态与方法上的准备 / 学习方法与策略转变](/getting-started/mental-preparation#6-学习方法与策略转变)。
+参见 [专业入门 / 心态与方法上的准备 / 学习方法与策略转变](/getting-started/mental-preparation#6-学习方法与策略转变)。
 
 ## 学会如何学习 (Learning How To Learn)
 

@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 安卓开发入门
 
-作者：[@lukelmouse](https://0xffff.one/u/lukelmouse) 
+> 作者：[@lukelmouse](https://0xffff.one/u/lukelmouse) 
 
 ### 1.语言 & Android基础
 
