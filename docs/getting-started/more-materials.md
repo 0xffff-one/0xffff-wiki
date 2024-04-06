@@ -6,11 +6,11 @@ sidebar_position: 10
 
 > 注：入门专题仍在持续施工中，可以在 [这个帖子](https://0xffff.one/d/1545) 关注最新进展 😊
 
-至此，计算机入门涉及到的方方面面的介绍就此告一段落，进一步的计算机学习的方向，相信在你的学习过程中会逐步发现，不需要过多的赘述。
+至此，计算机入门涉及到的方方面面的介绍，就此告一段落，更多的计算机学习的方向，不需要过多的赘述，我相信它们会随着你的学习的推进逐步出现。
 
-进一步的探索来看，还可以关注的话题有很多，比如说各个子领域的导览资源，关于当下大学教育的祛魅与行动，IT 领域的一些历史与文化，前辈们的探索经验等。
+进一步来说，可以关注的话题有很多，比如说 IT 各个子领域的导览资源，对当下大学教育的祛魅与行动，IT 领域的一些历史与文化，前辈们的探索经验等。
 
-一些可参考的站点：
+关于 IT 各子领域的导览，Wiki 的其他部分正在针对各个方向做内容扩展，另外还有一些可参考的站点：
 
 - [CS Plan](https://cs-plan.com)
 - [CS自学指南 - csdiy.wiki](https://csdiy.wiki/)
@@ -18,7 +18,7 @@ sidebar_position: 10
 - [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
-关于大学学习与 CS 的准备：
+大学学习与 CS 专业的准备：
 
 - [《上海交通大学生存手册》](http://www.houxiaodi.com/assets/misc/manual.pdf) 新版本：[SurviveSJTUManual](https://liankeqin.gitbook.io/survivesjtumanual/)
     - [《上海交通大学生存手册》节选 - 0xFFFF](https://0xffff.one/d/1644)
@@ -37,14 +37,15 @@ sidebar_position: 10
 - [《若为自由故 - 自由软件之父理查德·斯托曼传》](https://book.douban.com/subject/26314527/)
 - [《大教堂与集市》](https://book.douban.com/subject/25881855/)
 
-一些有意思的播客节目：
+有意思的播客节目：
 
 - [内核恐慌](https://pan.icu/)
+- [枫言枫语](https://fyfy.fm/)
 - [牛油果烤面包](https://avocadotoast.typlog.io/)
 - [Web Worker 播客](https://www.webworker.tech/)
 - [开源面对面](https://osf2f.net/)
 
-来自 [@Bintou](https://0xffff.one/u/Bintou) 老师的学习建议，适合华师同学：
+来自 [@Bintou](https://0xffff.one/u/Bintou) 老师的学习建议，适合 SCNU 同学：
 
 - [对大学准新生的具体学习及阅读建议 - 0xFFFF](https://0xffff.one/d/62)
 - [大学生如何寻找目标？ - 0xFFFF](https://0xffff.one/d/56)
@@ -54,4 +55,4 @@ sidebar_position: 10
 - [英文教材的阅读方法及策略 - 简书](https://www.jianshu.com/p/d6c29f714e9d)
 - [写在专业分流之后 - 简书](https://www.jianshu.com/p/e5f4cd7018ae)
 
-这里只是简单列一些，如果有觉得很合适的资料，也欢迎补充～
+这里只是简单列一些，若你有觉得很合适的资料，也欢迎补充～

@@ -5,7 +5,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
-const config = {
+module.exports = async () => ({
   title: '0xFFFF Wiki',
   tagline: '整理 CS 领域的学习资源及攻略',
   url: 'https://wiki.0xffff.one',
@@ -42,6 +42,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   'https://github.com/0xffff-one/0xffff-wiki/tree/main/',
+          remarkPlugins: [(await import('remark-math')).default],
+          rehypePlugins: [(await import('rehype-katex')).default],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -83,6 +85,10 @@ const config = {
         `,
       }
     }),
-};
-
-module.exports = config;
+  stylesheets: [
+    {
+      href: 'https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/KaTeX/0.15.2/katex.min.css',
+      type: 'text/css',
+    }
+  ],
+});
