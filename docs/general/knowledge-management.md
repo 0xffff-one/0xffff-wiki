@@ -15,7 +15,7 @@ sidebar_position: 2
 
 相关链接
 1. [Flomo 创始人少楠关于知识管理的分享](https://help.flomoapp.com/thinking/pkm.html)
-2. [基于 Logseq 重构个人知识管理体系 - gq's blog](https://zgq.ink/posts/knowledge-base-refactoring)
+2. [基于 Logseq 重构个人知识管理体系 - gq's blog](https://zgq.me/posts/knowledge-base-refactoring)
 3. [The PARA Method: A Universal System for Organizing Digital Information](https://pmthinking.com/the-para-method-a-universal-system-for-organizing-digital-information)
 4. [尼克拉斯 · 卢曼（Niklas Luhmann）的卡片盒笔记法](https://pmthinking.com/zettelkasten)
 
@@ -40,4 +40,4 @@ sidebar_position: 2
 参考链接：
 1. [Hugo](https://gohugo.io/)
 2. [搭建一个自己的博客 - 0xFFFF](https://0xffff.one/d/544)
-3. [适合个人网站的云服务组合 - gq's blog](https://zgq.ink/posts/cloud-for-personal-website)
+3. [适合个人网站的云服务组合 - gq's blog](https://zgq.me/posts/cloud-for-personal-website/)
