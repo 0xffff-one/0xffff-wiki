@@ -85,6 +85,7 @@ GUI贴近直觉的特性，尤其适合简单直观的一次性任务。当任�
 1. [在 Windows 下用 GCC 编译器练习 C/C++ 的教程 - 0xFFFF](https://0xffff.one/d/58)
 2. [Win10系统下的Windows Terminal+WSL配置指南 | Charfole's Blog](https://blog.charfole.top/Win10%E7%B3%BB%E7%BB%9F%E4%B8%8B%E7%9A%84Windows%20Terminal+WSL%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97.html)
 3. [Windows 下使用 VSCode 作为 C/C++ IDE](https://www.yuque.com/0xffff.one/cs-learning/os2kiv)
+4. [Visual Studio Code 配置指南](https://wsfcloud.github.io/posts/how-to-configure-vscode/) (Windows + MinGW)
 
 ### 进一步的延伸
 
