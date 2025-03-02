@@ -41,6 +41,7 @@ sidebar_position: 10
 - [牛油果烤面包](https://avocadotoast.typlog.io/)
 - [Web Worker 播客](https://www.webworker.tech/)
 - [开源面对面](https://osf2f.net/)
+- [捕蛇者说](https://pythonhunter.org/)
 
 来自 [@Bintou](https://0xffff.one/u/Bintou) 老师的学习建议，适合 SCNU 同学：
 
