@@ -48,3 +48,8 @@ sidebar_position: 8
 ### 总结
 
 有意识地构建好个人的知识管理体系，从对内和对外的视角，在稳住 Data → Information 过程的同时，通过持续专注的思考、讨论与交流，可以帮助你更好地促进 Information 到 Knowledge 的转化，乃至于量变构成质变，达到融会贯通的 Wisdom 境界。在这其中也因为有自己的一套方法架构，让你这一整个学习过程的抗干扰能力大大增加，更加专注与高效，助力你在技术世界走得更高更远。
+
+### 参考链接
+
+1. 本文话题的雏形：[基于 Logseq 重构个人知识管理体系 - gq's blog](https://zgq.me/posts/knowledge-base-refactoring/)
+2. 25年1月的分享：[TuDay 分享 - 建立个人知识管理、任务管理体系](https://www.bilibili.com/video/BV1qpcieoEK3/?t=7189)
