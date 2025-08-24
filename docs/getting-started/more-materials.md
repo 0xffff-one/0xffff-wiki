@@ -53,4 +53,4 @@ sidebar_position: 10
 - [英文教材的阅读方法及策略 - 简书](https://www.jianshu.com/p/d6c29f714e9d)
 - [写在专业分流之后 - 简书](https://www.jianshu.com/p/e5f4cd7018ae)
 
-这里只是简单列一些，若你有觉得很合适的资料，也欢迎补充～
+这里只是简单列一些，若你有觉得很合适的资料，也欢迎补充。

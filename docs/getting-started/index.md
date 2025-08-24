@@ -11,11 +11,14 @@
 3. [理想的大学世界](/getting-started/ideal-university)
 4. [现实主义的大学](/getting-started/realist-university)
 5. [应对现实缺位的策略](/getting-started/core-strategies)
-6. [心态与方法上的准备](/getting-started/mental-preparation)
+6. [心态上的准备](/getting-started/mental-preparation)
 7. [面向入门的开发环境打造](/getting-started/build-env)
-8. [个人知识管理体系的建立](/getting-started/knowledge-base)
+8. [自我管理体系的建立](/getting-started/self-management)
 9. [建立领域 Overview](/getting-started/build-overview)
 10. [阅读与扩展](/getting-started/more-materials)
 
 ### 相关链接
 [关于新版本入门专题的编写计划 - 0xFFFF](https://0xffff.one/d/1545)
+
+### 修订记录
+1. 2025.08.24 调整 \[心态准备\]、\[自我管理体系\] 相关内容
