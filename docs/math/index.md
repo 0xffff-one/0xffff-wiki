@@ -1,7 +1,7 @@
 
 # 数学基础
 
-> 作者：[@zgq354](https://github.com/zgq354), [@ColinDowney](https://0xffff.one/u/Colin_Downey)
+> 贡献者：[@zgq354](https://github.com/zgq354), [@ColinDowney](https://0xffff.one/u/Colin_Downey)
 
 数学计算机的重要基石，计算机科学理论基础的方方面面，都建立在扎实的数学基础之上。比如说计算机最基本的二进制视角，也是来源于信息论的基础，再底层则是概率论。现在许多热门的人工智能算法，其底层的原理都少不了线性代数、概率论和微积分等数学理论的支撑。学好数学有助于你在一个比较抽象的视角去对问题抽丝剥茧，直击要害。
 

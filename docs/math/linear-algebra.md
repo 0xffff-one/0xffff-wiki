@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # 线性代数
 
+> 贡献者：@zgq354
+
 ### 地位
 来自 Google Gemini 2.5 Pro 的 Overview：
 
