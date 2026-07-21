@@ -59,3 +59,6 @@ sidebar_position: 3
 1. 行动记录，可以用一些带链接和 ToDo List 的笔记工具，如 Notion、Logseq、Obsidian、飞书文档、语雀等等
 2. 项目规划、记录工具，涉及到一些思维导图、甘特图、表格等工具，如 XMind、飞书的思维导图、多维表格及各类智能表格、Notion 的 Database 与 Project 功能、Excel 等
 3. 日历日程工具，飞书个人版、macOS 自带日历、Outlook、Google Calendar 等
+
+相关链接
+1. [从知识管理到个人数字基建 - gq's blog](https://zgq.me/posts/personal-digital-infrastructure/)
